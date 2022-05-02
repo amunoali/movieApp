@@ -45,7 +45,7 @@ main{
     margin: 1rem;
     border-radius: 3px;
     box-shadow: 0.2px 4px 5px rgba(0,0,0,0.1);
-    background-color:rgb(20, 120, 120);
+    background-color: #000;
     position: relative;
     overflow: hidden;
 }
